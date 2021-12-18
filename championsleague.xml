@@ -10,14 +10,10 @@
             <match>Milan x Rome F.C</match>
             <price>80.0</price>
         </entry>
-        <entry vip="true">
-            <match>Milan x Rome F.C - VIP A </match>
-            <price>400.0</price>
-        </entry>
-        <entry vip="true">
-            <match>Milan x Rome F.C - VIP B</match>
-            <price>300.0</price>
-        </entry>         
+        <entry kit="true">
+            <match>Kit gold Champions League </match>
+            <price>50.0</price>
+        </entry>       
     </section>
 
        <section name="Group B">
@@ -29,14 +25,10 @@
             <match>Chelsea x FC Bayern Munich </match>
             <price>80.0</price>
         </entry>
-        <entry vip="true">
-            <match>Manchester United x Barcelona - VIP A </match>
-            <price>400.0</price>
-        </entry>
-        <entry vip="true">
-            <match>Chelsea x FC Bayern Munich - VIP B</match>
-            <price>400.0</price>
-        </entry>         
+        <entry kit="true">
+            <match>kit champions league </match>
+            <price>50.0</price>
+        </entry>           
     </section>
    
    <section name="Group C">
@@ -48,13 +40,9 @@
             <match>Liverpool x AFC Ajax </match>
             <price>80.0</price>
         </entry>
-        <entry vip="true">
-            <match>Borussia Dortmund x Paris Saint-Germain F.C. - VIP A </match>
-            <price>400.0</price>
-        </entry>
-        <entry vip="true">
-            <match>Liverpool x AFC Ajax - VIP B</match>
-            <price>400.0</price>
-        </entry>         
+        <entry kit="true">
+            <match>kit champions league </match>
+            <price>50.0</price>
+        </entry>            
     </section>
 </tickets>
