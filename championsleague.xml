@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<tickets>
+    <section name="Group A">
+        <entry>
+            <match>Real Madrid x Juventus</match>
+            <price>80.0</price>
+        </entry>
+        <entry>
+            <match>Milan x Rome F.C</match>
+            <price>80.0</price>
+        </entry>
+        <entry vip="true">
+            <match>Milan x Rome F.C - VIP A </match>
+            <price>400.0</price>
+        </entry>
+        <entry vip="true">
+            <match>Milan x Rome F.C - VIP B</match>
+            <price>300.0</price>
+        </entry>         
+    </section>
+
+       <section name="Group B">
+        <entry>
+            <match>Manchester United x Barcelona</match>
+            <price>80.0</price>
+        </entry>
+        <entry>
+            <match>Chelsea x FC Bayern Munich </match>
+            <price>80.0</price>
+        </entry>
+        <entry vip="true">
+            <match>Manchester United x Barcelona - VIP A </match>
+            <price>400.0</price>
+        </entry>
+        <entry vip="true">
+            <match>Chelsea x FC Bayern Munich - VIP B</match>
+            <price>400.0</price>
+        </entry>         
+    </section>
+   
+   <section name="Group C">
+        <entry>
+            <match>Borussia Dortmund x Paris Saint-Germain F.C.</match>
+            <price>80.0</price>
+        </entry>
+        <entry>
+            <match>Liverpool x AFC Ajax </match>
+            <price>80.0</price>
+        </entry>
+        <entry vip="true">
+            <match>Borussia Dortmund x Paris Saint-Germain F.C. - VIP A </match>
+            <price>400.0</price>
+        </entry>
+        <entry vip="true">
+            <match>Liverpool x AFC Ajax - VIP B</match>
+            <price>400.0</price>
+        </entry>         
+    </section>
+</tickets>
